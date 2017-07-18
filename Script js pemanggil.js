@@ -20,7 +20,7 @@ j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*20)+ 1);var xxx=null;
 if(x=="1"){xxx="/2017/05/gitar-akustik.html"}
-if(x=="2"){xxx="/2016/08/pria-wajib-baca-6-hal-tentang-ejakulasi.html"}
+if(x=="2"){xxx="/2017/06/10-latest-games-2017.html"}
 if(x=="3"){xxx="/2016/10/cara-merawat-kulit-wajah-berminyak.html"}
 if(x=="4"){xxx="/2016/10/cara-merawat-kulit-wajah-berminyak.html"}
 if(x=="5"){xxx="/2016/10/cara-merawat-kulit-wajah-berminyak.html"}
