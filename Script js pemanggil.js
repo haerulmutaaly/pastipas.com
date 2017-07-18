@@ -30,9 +30,9 @@ if(x=="8"){xxx="/2016/10/cara-merawat-kulit-wajah-berminyak.html"}
 if(x=="9"){xxx="/2016/10/cara-merawat-kulit-wajah-berminyak.html"}
 if(x=="10"){xxx="/2017/06/10-latest-games-2017.html"}
 if(x=="11"){xxx="/2017/06/10-latest-games-2017.html"}
-if(x=="12"){xxx="/2016/08/pria-wajib-baca-6-hal-tentang-ejakulasi.html"}
-if(x=="13"){xxx="/2016/08/pria-wajib-baca-6-hal-tentang-ejakulasi.html"}
-if(x=="14"){xxx="/2016/08/pria-wajib-baca-6-hal-tentang-ejakulasi.html"}
+if(x=="12"){xxx="/2017/06/10-latest-games-2017.html"}
+if(x=="13"){xxx="/2017/06/10-latest-games-2017.html"}
+if(x=="14"){xxx="/2017/06/10-latest-games-2017.html"}
 if(x=="15"){xxx="/2017/05/gitar-akustik.html"}
 if(x=="16"){xxx="/2017/05/gitar-akustik.html"}
 if(x=="17"){xxx="/2017/05/gitar-akustik.html"}
