@@ -28,14 +28,14 @@ if(x=="6"){xxx="/2016/10/cara-merawat-kulit-wajah-berminyak.html"}
 if(x=="7"){xxx="/2016/10/cara-merawat-kulit-wajah-berminyak.html"}
 if(x=="8"){xxx="/2016/10/cara-merawat-kulit-wajah-berminyak.html"}
 if(x=="9"){xxx="/2016/10/cara-merawat-kulit-wajah-berminyak.html"}
-if(x=="10"){xxx="/06/10-latest-games-2017.html"}
-if(x=="11"){xxx="/06/10-latest-games-2017.html"}
-if(x=="12"){xxx="/06/10-latest-games-2017.html"}
-if(x=="13"){xxx="/06/10-latest-games-2017.html"}
-if(x=="14"){xxx="/06/10-latest-games-2017.html"}
-if(x=="15"){xxx="/06/10-latest-games-2017.html"}
-if(x=="16"){xxx="/06/10-latest-games-2017.html"}
-if(x=="17"){xxx="/06/10-latest-games-2017.html"}
+if(x=="10"){xxx="/2017/07/addictive-drums-2.html"}
+if(x=="11"){xxx="/2017/07/addictive-drums-2.html"}
+if(x=="12"){xxx="/2017/07/addictive-drums-2.html"}
+if(x=="13"){xxx="/2017/07/addictive-drums-2.html"}
+if(x=="14"){xxx="/2017/07/addictive-drums-2.html"}
+if(x=="15"){xxx="/2017/07/addictive-drums-2.html"}
+if(x=="16"){xxx="/2017/07/addictive-drums-2.html"}
+if(x=="17"){xxx="/2017/07/addictive-drums-2.html"}
 if(x=="18"){xxx="/2017/05/gitar-akustik.html"}
 if(x=="19"){xxx="/2017/05/gitar-akustik.html"}
 if(x=="20"){xxx="/2017/05/gitar-akustik.html"}a_to_ve[i].href="https://www.pastipas.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
