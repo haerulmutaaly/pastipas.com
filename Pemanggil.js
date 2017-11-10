@@ -25,9 +25,9 @@ if(x=="3"){xxx="/2017/08/6-best-android-camera-smartphone.html"}
 if(x=="4"){xxx="/2017/08/6-best-android-camera-smartphone.html"}
 if(x=="5"){xxx="/2017/08/6-best-android-camera-smartphone.html"}
 if(x=="6"){xxx="/2017/08/6-best-android-camera-smartphone.html"}
-if(x=="7"){xxx="/2016/10/cara-merawat-kulit-wajah-berminyak.html"}
-if(x=="8"){xxx="/2016/10/cara-merawat-kulit-wajah-berminyak.html"}
-if(x=="9"){xxx="/2016/10/cara-merawat-kulit-wajah-berminyak.html"}
+if(x=="7"){xxx="/2017/06/10-latest-games-2017.html"}
+if(x=="8"){xxx="/2017/06/10-latest-games-2017.html"}
+if(x=="9"){xxx="/2017/06/10-latest-games-2017.html"}
 if(x=="10"){xxx="/2017/06/10-latest-games-2017.html"}
 if(x=="11"){xxx="/2017/06/10-latest-games-2017.html"}
 if(x=="12"){xxx="/2017/06/10-latest-games-2017.html"}
